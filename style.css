@@ -147,7 +147,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 10%;
+    padding: 0 15%;
 }
 
 .box {
@@ -212,3 +212,8 @@ form button:hover {
 form input, form button, form h1 {
     font-family: Poppins,sans-serif;
 }
+
+.illustration {
+    height: 60vh;
+}
+
